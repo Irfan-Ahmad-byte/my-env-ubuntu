@@ -1,0 +1,9 @@
+nano ~/.bashrc
+
+# add the following line at the end of the opened file
+
+export PATH="/enter/your/path:$PATH"
+
+# execute the following command for changes to take effect
+
+source ~/.bashrc
